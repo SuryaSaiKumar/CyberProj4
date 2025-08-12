@@ -1,0 +1,101 @@
+
+
+Top Common Passwords & Breach Impacts
+1. Global Most Common Passwords
+According to analysis by Specops Software’s Threat Intelligence team (KrakenLabs), based on over 1.08 billion stolen credentials (as of December 2024):
+
+The most commonly stolen passwords: “123456”, “admin”, and “password”. 
+Specops Software
+
+Cybernews’ research, which examined over 19 billion leaked passwords between April 2024 and early 2025, further highlights:
+
+94% of passwords were reused or duplicates.
+
+Only 6% were unique.
+
+Among the most frequently used passwords:
+
+"123456" appeared approximately 338 million times.
+
+"1234" appeared about 727 million times.
+
+"password" reached 56 million occurrences.
+
+"admin" counted 53 million occurrences. 
+New York Post
+Cybernews
+Security Boulevard
+The Times of India
+
+2. Top Offenders (Other Common Entries)
+Security Magazine’s “20 most common passwords leaked on the dark web” list includes:
+
+yaml
+Copy
+Edit
+1. 123456
+2. 123456789
+3. qwerty
+4. password
+5. 12345
+6. 12345678
+7. 111111
+8. 1234567
+9. 123123
+10. qwerty123
+11. 1q2w3e
+12. 1234567890
+13. DEFAULT
+14. 0
+15. Abc123
+16. 654321
+17. 123321
+18. Qwertyuiop
+19. Iloveyou
+20. 666666
+``` :contentReference[oaicite:2]{index=2}
+
+Similarly, an updated breakdown from Class Action U (July 2025) lists the top 10 most common breached passwords:
+1. 123456  
+2. 123456789  
+3. 12345678  
+4. password  
+5. qwerty123  
+6. qwerty1  
+7. 111111  
+8. 12345  
+9. secret  
+10. 123123 :contentReference[oaicite:3]{index=3}
+
+### 3. **Patterns Beyond Numbers**
+Cybernews data reveals additional insights:
+- **8%** of passwords included popular **names**, with **“Ana”** being especially common (~178.8 million instances).
+- Positive or nostalgic words like **‘love’** (87M), **‘sun’** (34M), **‘dream’** (6.1M), **‘joy’** (6.9M), and **‘freedom’** (2M).
+- Pop culture references: **“Mario”** (9.6M), **“Thor”** (6.2M), **“Batman”** (3.9M), **“Joker”** (3.1M), **“Elsa”** (2.9M).
+- Profanity also featured: **“ass”** (165M), **“fuck”** (16M), **“shit”** (6.5M), **“dick”** (3.2M), **“bitch”** (3.2M). :contentReference[oaicite:4]{index=4}
+
+---
+
+##  Then What Happens in a Breach?
+
+- **Credential stuffing and dictionary attacks** exploit these predictable patterns—simple passwords like `"123456"`, `"password"`, or `"admin"` are extremely quick to breach. :contentReference[oaicite:5]{index=5}
+- The frequent reuse of passwords means a breach of one account can compromise multiple services (the “domino effect”). :contentReference[oaicite:6]{index=6}
+- Studies show **81% of data breaches** involve weak or stolen credentials. :contentReference[oaicite:7]{index=7}
+- Companies and users often lose significant time and money recovering from these incidents—on average, a breached account takes over **10 hours to recover** and costs **$4.35 million** per incident. :contentReference[oaicite:8]{index=8}
+
+### Notable Breach Examples:
+- **RockYou (2009)**: Exposed over 32 million accounts, with plaintext passwords—this dataset became a popular wordlist for cracking attacks. :contentReference[oaicite:9]{index=9}
+- **Yahoo Voices (2012)**: About 450,000 plaintext passwords were leaked via SQL injection, allowing immediate misuse. :contentReference[oaicite:10]{index=10}
+- **LinkedIn (2012)**: Around 6.5 million passwords were stolen (later additional 100 million), prompting forced password resets. :contentReference[oaicite:11]{index=11}
+- **Ashley Madison (2015)**: 11 million passwords were cracked; most common among the easiest-to-crack were `"123456"` and `"password"`. :contentReference[oaicite:12]{index=12}
+- **Collection #1 (2019)**: Over 2.7 billion email/password pairs (21M unique passwords) appeared, many in plaintext. :contentReference[oaicite:13]{index=13}
+
+---
+
+##  Summary: What This Means
+
+- **Predictable, weak passwords** remain alarmingly common—even today.
+- **Most popular passwords** (e.g., `"123456"`, `"password"`, `"admin"`, `"qwerty"`) are breached first—often instantly.
+- **Names, pop culture references, profanity, and food or place names** are also easy to guess.
+- **Reuse of these weak passwords across sites greatly amplifies breach impact**.
+- **Historical breaches**—from RockYou to LinkedIn—demonstrate how plaintext or weak password s
